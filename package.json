@@ -1,0 +1,14 @@
+{
+  "name": "aqora-client",
+  "version": "0.0.1",
+  "author": "José Ribeiro",
+  "description": "A client library for abstracting the use of a remote Aqora instance.",
+
+  "private": true,
+  "main": "app.js",
+
+  "dependencies":
+  {
+    "request": "2.34.x"
+  }
+}
